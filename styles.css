@@ -57,3 +57,19 @@ ul{
 p{
     margin: 20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: white;
+    border: lightgray;
+    border-width: 1.5px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.loremPic{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
